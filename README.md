@@ -22,6 +22,8 @@ When the place is not empty:
 <img width="252" alt="not empty place" src="https://user-images.githubusercontent.com/103436003/184596071-01745c05-4e2d-418a-884e-99788ac14947.PNG">
 
 
+
+
 When the result is even:
 
 
