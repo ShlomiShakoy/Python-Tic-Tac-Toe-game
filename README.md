@@ -1,7 +1,7 @@
 # Python-Tic-Tac-Toe-game
 Tic Tac Toe project using Python
 
-Coverd every situation:
+Coverd any case:
 
 When the numbers is not in range:
 
