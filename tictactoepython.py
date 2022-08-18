@@ -94,6 +94,6 @@ def check_winner():
                 print('Thanks for playing!')
         else:
             print('Thanks for playing!')
-
-display()
-check_winner()
+if __name__=='__main__':
+    display()
+    check_winner()
