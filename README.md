@@ -3,7 +3,7 @@ Tic Tac Toe project using Python
 
 Covered any wrong case:
 
-When the number is not in range:
+When number is not in range:
 
 
 
